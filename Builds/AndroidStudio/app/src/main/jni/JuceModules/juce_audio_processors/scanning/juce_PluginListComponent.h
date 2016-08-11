@@ -1,1 +1,1 @@
-/Users/adamelemental/dev/juce/modules/juce_audio_processors/scanning/juce_PluginListComponent.h
+/Users/adamelemental/dev/juce_projects/RNNavigationTest/juce/modules/juce_audio_processors/scanning/juce_PluginListComponent.h

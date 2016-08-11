@@ -1,1 +1,1 @@
-/Users/adamelemental/dev/juce/modules/juce_video/capture/juce_CameraDevice.cpp
+/Users/adamelemental/dev/juce_projects/RNNavigationTest/juce/modules/juce_video/capture/juce_CameraDevice.cpp

@@ -1,1 +1,1 @@
-/Users/adamelemental/dev/juce/modules/juce_video/native/juce_mac_CameraDevice.mm
+/Users/adamelemental/dev/juce_projects/RNNavigationTest/juce/modules/juce_video/native/juce_mac_CameraDevice.mm

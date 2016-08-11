@@ -1,1 +1,1 @@
-/Users/adamelemental/dev/juce/modules/juce_video/juce_video.mm
+/Users/adamelemental/dev/juce_projects/RNNavigationTest/juce/modules/juce_video/juce_video.mm

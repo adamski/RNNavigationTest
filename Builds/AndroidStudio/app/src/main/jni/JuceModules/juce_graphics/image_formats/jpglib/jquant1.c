@@ -1,1 +1,1 @@
-/Users/adamelemental/dev/juce/modules/juce_graphics/image_formats/jpglib/jquant1.c
+/Users/adamelemental/dev/juce_projects/RNNavigationTest/juce/modules/juce_graphics/image_formats/jpglib/jquant1.c

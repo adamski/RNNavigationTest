@@ -1,1 +1,1 @@
-/Users/adamelemental/dev/juce/modules/juce_graphics/images/juce_ImageFileFormat.h
+/Users/adamelemental/dev/juce_projects/RNNavigationTest/juce/modules/juce_graphics/images/juce_ImageFileFormat.h

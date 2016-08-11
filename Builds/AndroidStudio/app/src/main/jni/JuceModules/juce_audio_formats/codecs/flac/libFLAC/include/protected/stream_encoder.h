@@ -1,1 +1,1 @@
-/Users/adamelemental/dev/juce/modules/juce_audio_formats/codecs/flac/libFLAC/include/protected/stream_encoder.h
+/Users/adamelemental/dev/juce_projects/RNNavigationTest/juce/modules/juce_audio_formats/codecs/flac/libFLAC/include/protected/stream_encoder.h
