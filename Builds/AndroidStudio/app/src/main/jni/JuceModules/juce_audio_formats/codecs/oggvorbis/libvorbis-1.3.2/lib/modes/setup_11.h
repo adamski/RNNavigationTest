@@ -1,1 +1,0 @@
-/Users/adamelemental/dev/juce_projects/RNNavigationTest/juce/modules/juce_audio_formats/codecs/oggvorbis/libvorbis-1.3.2/lib/modes/setup_11.h
