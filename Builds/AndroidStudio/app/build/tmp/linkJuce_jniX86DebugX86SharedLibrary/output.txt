@@ -1,0 +1,4 @@
+See file:///Users/adamelemental/dev/juce_projects/RNNavigationTest/Builds/AndroidStudio/app/build/tmp/linkJuce_jniX86DebugX86SharedLibrary/output.txt for all output for linkJuce_jniX86DebugX86SharedLibrary.
+linking libjuce_jni.so successful.
+
+Finished linkJuce_jniX86DebugX86SharedLibrary, see full log file:///Users/adamelemental/dev/juce_projects/RNNavigationTest/Builds/AndroidStudio/app/build/tmp/linkJuce_jniX86DebugX86SharedLibrary/output.txt.

@@ -1,0 +1,37 @@
+See file:///Users/adamelemental/dev/juce_projects/RNNavigationTest/Builds/AndroidStudio/app/build/tmp/compileJuce_jniX86DebugX86SharedLibraryJuce_jniMainCpp/output.txt for all output for compileJuce_jniX86DebugX86SharedLibraryJuce_jniMainCpp.
+compiling juce_events.cpp successful.
+
+compiling juce_data_structures.cpp successful.
+
+compiling Main.cpp successful.
+
+compiling MainComponent.cpp successful.
+
+compiling juce_gui_extra.cpp successful.
+
+compiling juce_opengl.cpp successful.
+
+compiling juce_core.cpp successful.
+
+compiling juce_graphics.cpp successful.
+
+compiling juce_gui_basics.cpp successful.
+In file included from /Users/adamelemental/dev/juce_projects/RNNavigationTest/Builds/AndroidStudio/app/src/main/jni/juce_gui_basics.cpp:9:
+In file included from /Users/adamelemental/dev/juce_projects/RNNavigationTest/Builds/AndroidStudio/../../juce/modules/juce_gui_basics/juce_gui_basics.cpp:285:
+/Users/adamelemental/dev/juce_projects/RNNavigationTest/Builds/AndroidStudio/../../juce/modules/juce_gui_basics/native/juce_android_Windowing.cpp:601:14: warning: 'initialiseBitmapData' overrides a member function but is not marked 'override' [-Winconsistent-missing-override]
+        void initialiseBitmapData (Image::BitmapData& bm, int x, int y, Image::BitmapData::ReadWriteMode mode)
+             ^
+/Users/adamelemental/dev/juce_projects/RNNavigationTest/Builds/AndroidStudio/../../juce/modules/juce_graphics/images/juce_Image.h:447:18: note: overridden virtual function is here
+    virtual void initialiseBitmapData (Image::BitmapData&, int x, int y, Image::BitmapData::ReadWriteMode) = 0;
+                 ^
+In file included from /Users/adamelemental/dev/juce_projects/RNNavigationTest/Builds/AndroidStudio/app/src/main/jni/juce_gui_basics.cpp:9:
+In file included from /Users/adamelemental/dev/juce_projects/RNNavigationTest/Builds/AndroidStudio/../../juce/modules/juce_gui_basics/juce_gui_basics.cpp:285:
+/Users/adamelemental/dev/juce_projects/RNNavigationTest/Builds/AndroidStudio/../../juce/modules/juce_gui_basics/native/juce_android_Windowing.cpp:609:29: warning: 'clone' overrides a member function but is not marked 'override' [-Winconsistent-missing-override]
+        ImagePixelData::Ptr clone()
+                            ^
+/Users/adamelemental/dev/juce_projects/RNNavigationTest/Builds/AndroidStudio/../../juce/modules/juce_graphics/images/juce_Image.h:443:17: note: overridden virtual function is here
+    virtual Ptr clone() = 0;
+                ^
+2 warnings generated.
+
+Finished compileJuce_jniX86DebugX86SharedLibraryJuce_jniMainCpp, see full log file:///Users/adamelemental/dev/juce_projects/RNNavigationTest/Builds/AndroidStudio/app/build/tmp/compileJuce_jniX86DebugX86SharedLibraryJuce_jniMainCpp/output.txt.
